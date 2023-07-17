@@ -1,2 +1,2 @@
-+from Boxer_enc import main
-+main()
+import Boxer_enc
+Boxer_enc.main()
