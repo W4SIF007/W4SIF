@@ -7,4 +7,4 @@ pkg update
 #pip install bs4
 git clone https://github.com/W4SIF007/W4SIF.git
 cd WASIF
-python Boxer_1.py
+python Boxer.py
